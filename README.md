@@ -1,15 +1,34 @@
 # 💳 Fraud Detection using Machine Learning
 ### Comparative Study of Classification Models
 
-## 🚀 Overview
 
-This project builds a machine learning system to detect fraudulent financial transactions using multiple classification models.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+---
+
 
 ## 📊 Project Preview
 ![Preview](screenshots/preview.png)
 
+---
+
+
+## 🚀 Overview
+
+This project builds a machine learning system to detect fraudulent financial transactions using multiple classification models.
+
+---
+
+
 ## 📌 Problem Statement
 Detect fraudulent transactions using machine learning.
+
+---
 
 ## 🧠 Approach
 - Data preprocessing
@@ -17,19 +36,12 @@ Detect fraudulent transactions using machine learning.
 - Evaluation using precision, recall
 - Visualization
 
+---
+
 ## 📊 Results
 Random Forest and SVM performed best.
 
-## ⚠️ Challenge
-Dataset is highly imbalanced.
-
-## 🔮 Future Improvements
-- SMOTE
-- Hyperparameter tuning
-- Deployment
-
 ---
-
 
 ## 📈 Visualizations
 
@@ -47,6 +59,21 @@ Precision and recall are more important than accuracy in imbalanced datasets.
 
 ---
 
+## ⚠️ Challenge
+Dataset is highly imbalanced.
+
+---
+
+## 🔮 Future Improvements
+- SMOTE
+- Hyperparameter tuning
+- Deployment
+
+---
+
+
 ## 🛠️ Tech Stack
 
 Python • Pandas • Scikit-learn • Matplotlib • Seaborn
+
+---
