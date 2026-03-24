@@ -6,7 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-pink)
+![Made With](https://img.shields.io/badge/Made%20With-Jupyter-blue)
 
 
 ---
