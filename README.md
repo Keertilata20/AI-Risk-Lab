@@ -1,26 +1,35 @@
-# 💳 AI Risk Lab: Fraud Detection using Machine Learning
+# 💳 Fraud Detection using Machine Learning
+### Comparative Study of Classification Models
 
 ## 🚀 Overview
 
 This project builds a machine learning system to detect fraudulent financial transactions using multiple classification models.
 
-## 🧠 Problem
-
-Fraud detection is a highly imbalanced classification problem where accuracy alone is not sufficient.
-
-## ⚙️ Models Used
-
-* Logistic Regression
-* Decision Tree
-* Random Forest 🌲
-* Support Vector Machine ⚡
-
 ## 📊 Project Preview
 ![Preview](screenshots/preview.png)
 
-## 📊 Results
+## 📌 Problem Statement
+Detect fraudulent transactions using machine learning.
 
-Random Forest and SVM achieved the best balance between precision and recall.
+## 🧠 Approach
+- Data preprocessing
+- Model training (4 models)
+- Evaluation using precision, recall
+- Visualization
+
+## 📊 Results
+Random Forest and SVM performed best.
+
+## ⚠️ Challenge
+Dataset is highly imbalanced.
+
+## 🔮 Future Improvements
+- SMOTE
+- Hyperparameter tuning
+- Deployment
+
+---
+
 
 ## 📈 Visualizations
 
@@ -30,15 +39,13 @@ Random Forest and SVM achieved the best balance between precision and recall.
 * ROC Curve
 * Pairplot
 
+---
+
 ## 🧠 Key Insight
 
 Precision and recall are more important than accuracy in imbalanced datasets.
 
-## 🔮 Future Work
-
-* Handle imbalance using SMOTE
-* Hyperparameter tuning
-* Deploy as web app
+---
 
 ## 🛠️ Tech Stack
 
