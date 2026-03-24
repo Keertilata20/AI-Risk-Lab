@@ -15,6 +15,9 @@ Fraud detection is a highly imbalanced classification problem where accuracy alo
 * Random Forest 🌲
 * Support Vector Machine ⚡
 
+## 📊 Project Preview
+![Preview](screenshots/preview.png)
+
 ## 📊 Results
 
 Random Forest and SVM achieved the best balance between precision and recall.
