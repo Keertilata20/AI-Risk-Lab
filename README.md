@@ -71,10 +71,10 @@ Precision and recall are more important than accuracy in imbalanced datasets.
 
 ## 🛠️ Tech Stack
 
-• Python 
-• Pandas 
-• Scikit-learn 
-• Matplotlib 
-• Seaborn
+- Python 
+- Pandas 
+- Scikit-learn 
+- Matplotlib 
+- Seaborn
 
 ---
