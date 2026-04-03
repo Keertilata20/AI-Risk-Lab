@@ -60,10 +60,6 @@ Precision and recall are more important than accuracy in imbalanced datasets.
 
 ---
 
-## ⚠️ Challenge
-Dataset is highly imbalanced.
-
----
 
 ## 🔮 Future Improvements
 - SMOTE
