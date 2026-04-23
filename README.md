@@ -33,7 +33,7 @@ Detect fraudulent transactions using machine learning.
 
 ## 🧠 Approach
 - Data preprocessing
-- Model training (4 models)
+- Model training (4 models- Logistic Regression, Decision Tree, Random Forest, SVM)
 - Evaluation using precision, recall
 - Visualization
 
